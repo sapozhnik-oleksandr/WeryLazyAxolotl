@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WeryLazyAxolotl
+- 👋 Hi, I’m @sapozhnik-oleksandr
 - 👀 I’m interested in learning C++ and C#
 - 🌱 I’m currently learning college CHNU
 - 📫 How to reach me: sapozhnik.oleksandr.clg@chnu.edu.ua
